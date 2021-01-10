@@ -1,0 +1,13 @@
+C:\Users\kandeel\source\repos\ChessBoard Gui\ChessBoard Gui\bin\Debug\ChessBoard Gui.exe.config
+C:\Users\kandeel\source\repos\ChessBoard Gui\ChessBoard Gui\bin\Debug\ChessBoard Gui.exe
+C:\Users\kandeel\source\repos\ChessBoard Gui\ChessBoard Gui\bin\Debug\ChessBoard Gui.pdb
+C:\Users\kandeel\source\repos\ChessBoard Gui\ChessBoard Gui\bin\Debug\ChessBoardModel.dll
+C:\Users\kandeel\source\repos\ChessBoard Gui\ChessBoard Gui\bin\Debug\ChessBoardModel.pdb
+C:\Users\kandeel\source\repos\ChessBoard Gui\ChessBoard Gui\obj\Debug\ChessBoard Gui.csprojAssemblyReference.cache
+C:\Users\kandeel\source\repos\ChessBoard Gui\ChessBoard Gui\obj\Debug\ChessBoard_Gui.Form1.resources
+C:\Users\kandeel\source\repos\ChessBoard Gui\ChessBoard Gui\obj\Debug\ChessBoard_Gui.Properties.Resources.resources
+C:\Users\kandeel\source\repos\ChessBoard Gui\ChessBoard Gui\obj\Debug\ChessBoard Gui.csproj.GenerateResource.cache
+C:\Users\kandeel\source\repos\ChessBoard Gui\ChessBoard Gui\obj\Debug\ChessBoard Gui.csproj.CoreCompileInputs.cache
+C:\Users\kandeel\source\repos\ChessBoard Gui\ChessBoard Gui\obj\Debug\ChessBoard Gui.csproj.CopyComplete
+C:\Users\kandeel\source\repos\ChessBoard Gui\ChessBoard Gui\obj\Debug\ChessBoard Gui.exe
+C:\Users\kandeel\source\repos\ChessBoard Gui\ChessBoard Gui\obj\Debug\ChessBoard Gui.pdb
